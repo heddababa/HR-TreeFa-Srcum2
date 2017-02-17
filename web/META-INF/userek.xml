@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Users>
+  <User>
+    <Name>admin1</Name>
+    <Password>8cb2237d0679ca88db6464eac60da96345513964</Password>
+    <Role>HR1</Role>
+  </User>
+  <User>
+    <Name>admin2</Name>
+    <Password>348162101fc6f7e624681b7400b085eeac6df7bd</Password>
+    <Role>HR2</Role>
+  </User>
+  <User>
+    <Name>admin3</Name>
+    <Password>8cb2237d0679ca88db6464eac60da96345513964</Password>
+    <Role>HR1</Role>
+  </User>
+</Users>
